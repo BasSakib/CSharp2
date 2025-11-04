@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Desktop\\PORALEKHA\\C SHARP\\CODE\\secondTIME\\",
+  "WorkspaceRootPath": "E:\\Desktop\\PORALEKHA\\IMPORTANT\\C SHARP\\CODE\\secondTIME\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95C6369D-9C38-40E8-84A6-18A643DB2EF1}|secondTIME\\secondTIME.csproj|e:\\desktop\\poralekha\\c sharp\\code\\secondtime\\secondtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95C6369D-9C38-40E8-84A6-18A643DB2EF1}|secondTIME\\secondTIME.csproj|e:\\desktop\\poralekha\\important\\c sharp\\code\\secondtime\\secondtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C6369D-9C38-40E8-84A6-18A643DB2EF1}|secondTIME\\secondTIME.csproj|solutionrelative:secondtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C6369D-9C38-40E8-84A6-18A643DB2EF1}|secondTIME\\secondTIME.csproj|E:\\Desktop\\PORALEKHA\\C SHARP\\CODE\\secondTIME\\secondtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{95C6369D-9C38-40E8-84A6-18A643DB2EF1}|secondTIME\\secondTIME.csproj|E:\\Desktop\\PORALEKHA\\IMPORTANT\\C SHARP\\CODE\\secondTIME\\secondtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{95C6369D-9C38-40E8-84A6-18A643DB2EF1}|secondTIME\\secondTIME.csproj|solutionrelative:secondtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C6369D-9C38-40E8-84A6-18A643DB2EF1}|secondTIME\\secondTIME.csproj|E:\\Desktop\\PORALEKHA\\C SHARP\\CODE\\secondTIME\\secondtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95C6369D-9C38-40E8-84A6-18A643DB2EF1}|secondTIME\\secondTIME.csproj|E:\\Desktop\\PORALEKHA\\IMPORTANT\\C SHARP\\CODE\\secondTIME\\secondtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C6369D-9C38-40E8-84A6-18A643DB2EF1}|secondTIME\\secondTIME.csproj|solutionrelative:secondtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C6369D-9C38-40E8-84A6-18A643DB2EF1}|secondTIME\\secondTIME.csproj|E:\\Desktop\\PORALEKHA\\C SHARP\\CODE\\secondTIME\\secondtime\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95C6369D-9C38-40E8-84A6-18A643DB2EF1}|secondTIME\\secondTIME.csproj|E:\\Desktop\\PORALEKHA\\IMPORTANT\\C SHARP\\CODE\\secondTIME\\secondtime\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C6369D-9C38-40E8-84A6-18A643DB2EF1}|secondTIME\\secondTIME.csproj|solutionrelative:secondtime\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "E:\\Desktop\\PORALEKHA\\C SHARP\\CODE\\secondTIME\\secondTIME\\Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Desktop\\PORALEKHA\\IMPORTANT\\C SHARP\\CODE\\secondTIME\\secondTIME\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "secondTIME\\Form1.Designer.cs",
-              "ToolTip": "E:\\Desktop\\PORALEKHA\\C SHARP\\CODE\\secondTIME\\secondTIME\\Form1.Designer.cs",
+              "ToolTip": "E:\\Desktop\\PORALEKHA\\IMPORTANT\\C SHARP\\CODE\\secondTIME\\secondTIME\\Form1.Designer.cs",
               "RelativeToolTip": "secondTIME\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Desktop\\PORALEKHA\\C SHARP\\CODE\\secondTIME\\secondTIME\\Program.cs",
+              "DocumentMoniker": "E:\\Desktop\\PORALEKHA\\IMPORTANT\\C SHARP\\CODE\\secondTIME\\secondTIME\\Program.cs",
               "RelativeDocumentMoniker": "secondTIME\\Program.cs",
-              "ToolTip": "E:\\Desktop\\PORALEKHA\\C SHARP\\CODE\\secondTIME\\secondTIME\\Program.cs",
+              "ToolTip": "E:\\Desktop\\PORALEKHA\\IMPORTANT\\C SHARP\\CODE\\secondTIME\\secondTIME\\Program.cs",
               "RelativeToolTip": "secondTIME\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,11 +56,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Desktop\\PORALEKHA\\C SHARP\\CODE\\secondTIME\\secondTIME\\Form1.cs",
+              "DocumentMoniker": "E:\\Desktop\\PORALEKHA\\IMPORTANT\\C SHARP\\CODE\\secondTIME\\secondTIME\\Form1.cs",
               "RelativeDocumentMoniker": "secondTIME\\Form1.cs",
-              "ToolTip": "E:\\Desktop\\PORALEKHA\\C SHARP\\CODE\\secondTIME\\secondTIME\\Form1.cs",
+              "ToolTip": "E:\\Desktop\\PORALEKHA\\IMPORTANT\\C SHARP\\CODE\\secondTIME\\secondTIME\\Form1.cs",
               "RelativeToolTip": "secondTIME\\Form1.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAuwHMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T06:26:13.294Z",
               "EditorCaption": ""
@@ -69,10 +69,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\Desktop\\PORALEKHA\\C SHARP\\CODE\\secondTIME\\secondTIME\\Form1.cs",
+              "DocumentMoniker": "E:\\Desktop\\PORALEKHA\\IMPORTANT\\C SHARP\\CODE\\secondTIME\\secondTIME\\Form1.cs",
               "RelativeDocumentMoniker": "secondTIME\\Form1.cs",
               "ToolTip": "E:\\Desktop\\PORALEKHA\\C SHARP\\CODE\\secondTIME\\secondTIME\\Form1.cs [Design]",
-              "RelativeToolTip": "secondTIME\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\C SHARP\\CODE\\secondTIME\\secondTIME\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T06:25:50.802Z"
             }
