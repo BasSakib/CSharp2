@@ -1,0 +1,11 @@
+E:\Desktop\PORALEKHA\C SHARP\CODE\secondTIME\secondTIME\bin\Debug\secondTIME.exe.config
+E:\Desktop\PORALEKHA\C SHARP\CODE\secondTIME\secondTIME\bin\Debug\secondTIME.exe
+E:\Desktop\PORALEKHA\C SHARP\CODE\secondTIME\secondTIME\bin\Debug\secondTIME.pdb
+E:\Desktop\PORALEKHA\C SHARP\CODE\secondTIME\secondTIME\obj\Debug\secondTIME.csproj.AssemblyReference.cache
+E:\Desktop\PORALEKHA\C SHARP\CODE\secondTIME\secondTIME\obj\Debug\secondTIME.Form1.resources
+E:\Desktop\PORALEKHA\C SHARP\CODE\secondTIME\secondTIME\obj\Debug\secondTIME.Properties.Resources.resources
+E:\Desktop\PORALEKHA\C SHARP\CODE\secondTIME\secondTIME\obj\Debug\secondTIME.csproj.GenerateResource.cache
+E:\Desktop\PORALEKHA\C SHARP\CODE\secondTIME\secondTIME\obj\Debug\secondTIME.csproj.CoreCompileInputs.cache
+E:\Desktop\PORALEKHA\C SHARP\CODE\secondTIME\secondTIME\obj\Debug\secondTIME.exe
+E:\Desktop\PORALEKHA\C SHARP\CODE\secondTIME\secondTIME\obj\Debug\secondTIME.pdb
+E:\Desktop\PORALEKHA\C SHARP\CODE\secondTIME\secondTIME\obj\Debug\secondTIME.exe.config
