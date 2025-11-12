@@ -80,11 +80,11 @@ namespace secondTIME
             textBox1.Text += "0";
         }
 
-        private void button11_Click(object sender, EventArgs e)
-        {
-            textBox1.Text = "";
-            number1 = 0;
-        }
+        //private void button11_Click(object sender, EventArgs e)
+        //{
+        //    textBox1.Text = "";
+        //    number1 = 0;
+        //}
 
         private void button1_Click_1(object sender, EventArgs e)
         {
